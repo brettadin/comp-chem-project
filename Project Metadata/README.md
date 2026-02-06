@@ -1,7 +1,5 @@
 # Hybrid Quantum Simulation Engine (HybridQSE)
 
-*repo owner note:* this shit aint workin by any means, and all claims are subject to change or be outright wrong. if you get info/inspiration from this project, please shout me out at least. <3 
-
 **An ambitious multi-scale quantum simulation platform for atoms, molecules, and subatomic particles**
 
 ## Vision
